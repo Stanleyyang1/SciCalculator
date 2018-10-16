@@ -225,7 +225,9 @@ public class SciCalculator
         }
         //Exit Dialogue
         System.out.println("\nThanks for using this calculator. Goodbye!");
+        System.out.print("Bring me the VIRGIN SACRIFICE ");
     }
-
+    //Cthulhu shall rise again
+    //AND HE WILL WANT BLOOD
 
 }
